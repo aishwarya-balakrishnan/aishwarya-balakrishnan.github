@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+    <head>
+       <title>events</title>
+       <link rel="icon" href="img/date.png">
+
+    </head>
+
+
+    <body bgcolor="black" style="color: white;">
+        <center>
+        <h1>upcoming events 📅</h1>
+        <p>don't miss any of your important events.here are the important events you have registered for!</p>
+        </center>
+        <hr>
+        <p>
+         Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum praesentium, enim dolore dolorum porro harum? Fuga dolor laudantium ea facilis debitis delectus veritatis, nobis doloremque quos maxime expedita autem consectetur aut magnam. Minus hic earum cum impedit corrupti in maiores eos praesentium voluptate temporibus harum, veniam illo repellendus itaque dicta, reprehenderit neque fugiat non nulla nostrum architecto nam ipsa. Officia, culpa facere, odio quae aperiam est dolorem dignissimos labore porro, sapiente quo. Sequi sit voluptas beatae reiciendis harum sint eum soluta exercitationem repellendus quisquam id doloribus voluptates eius qui, temporibus fugiat quibusdam adipisci itaque quod consequatur impedit, fuga quidem. Neque.   
+        </p>
+        <center>
+        <img src="img/event1.png">
+        <h1>photo gallery</h1>
+        <h2>free entry|free food|pets are not allowed</h2>
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempore nisi dicta, aperiam illum est voluptates aut optio laboriosam incidunt vel adipisci eligendi, facilis totam. Praesentium laboriosam eaque provident labore repudiandae nobis rerum eligendi quaerat facilis. Ipsam, doloremque. Doloremque eius non, qui ipsum provident hic magnam laudantium voluptatem tempore, magni vero!</p>
+       </center>
+       <center>
+        <img src="img/event2.png">
+        <h1>
+            <a href="https://www.myntra.com/?utm_source=dms_google&utm_medium=dms_searchbrand_cpc&utm_campaign=dms_google_searchbrand_cpc_Search_Brand_Myntra_Brand_India_BM_TROAS_SOK_New&gad_source=1&gad_campaignid=20443628324&gbraid=0AAAAADoxBh7VO7Ae5iO2pHRqGWwXbrxUw&gclid=EAIaIQobChMIvoaY5pvzjQMViJRLBR3ezgK7EAAYASAAEgK9p_D_BwE">fashin store</a>
+        </h1>
+        <h2>free entry|free food|pets are not allowed</h2>
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempore nisi dicta, aperiam illum est voluptates aut optio laboriosam incidunt vel adipisci eligendi, facilis totam. Praesentium laboriosam eaque provident labore repudiandae nobis rerum eligendi quaerat facilis. Ipsam, doloremque. Doloremque eius non, qui ipsum provident hic magnam laudantium voluptatem tempore, magni vero!</p>
+        </center>
+
+        <hr>
+        <center>
+        <h1>contact</h1>
+        <h2>+91 787483783743 | eventcollab@gmail.com</h2>
+        <p>9th street avenue park,trichy,625620</p>
+        </center>
+    </body>
+
+
+
+
+</html>
